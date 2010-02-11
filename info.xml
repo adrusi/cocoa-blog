@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<courses>
+		<course name="Period 1">
+			<assignment title="Some random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+			<assignment title="Another random assignment" kind="project" assigned="01/01/10" due="01/02/10" />
+			<assignment title="A third random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+		</course>
+		<course name="Period 1">
+			<assignment title="Some random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+		</course>
+		<course name="Period 1">
+			<assignment title="Some random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+			<assignment title="Another random assignment" kind="project" assigned="01/01/10" due="01/02/10" />
+		</course>
+		<course name="Period 1">
+		</course>
+		<course name="Period 1">
+			<assignment title="Some random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+			<assignment title="Another random assignment" kind="project" assigned="01/01/10" due="01/02/10" />
+			<assignment title="A third random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+		</course>
+		<course name="Period 1">
+			<assignment title="Some random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+			<assignment title="Another random assignment" kind="project" assigned="01/01/10" due="01/02/10" />
+		</course>
+		<course name="Period 1">
+			<assignment title="Some random assignment" kind="overnight" assigned="01/01/10" due="01/02/10" />
+		</course>
+	</courses>
+	<websites>
+		<website title="School Calender" url="http://adrusihs.edu/calender" />
+	</websites>
+</info>
